@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://verz1.github.io/404.html</loc>
+    <loc>https://verz1.github.io/2023/03/01/Gradle-no-main-manifest-attribute/</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://verz1.github.io/2023/03/01/Gradle-no-main-manifest-attribute/</loc>
+    <loc>https://verz1.github.io/404.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -36,6 +36,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://verz1.github.io/tags/Gradle/</loc>
+    <lastmod>2023-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://verz1.github.io/tags/Groovy/</loc>
+    <lastmod>2023-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
